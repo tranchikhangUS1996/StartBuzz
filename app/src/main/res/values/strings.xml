@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StartBuzz</string>
+    <string name="startbucklogo">startbucks Logo</string>
+    <string-array name="options">
+        <item>Drinks</item>
+        <item>Food</item>
+        <item>Stores</item>
+    </string-array>
+</resources>
